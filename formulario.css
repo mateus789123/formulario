@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(116, 143, 231);
+
+}
+
+h1 {
+    color: rgb(141, 0, 0);
+    background-color: aliceblue;
+}
+
+#campo_nome {
+    background-color: blanchedalmond;
+}
+
+#campo_email {
+    background-color: blanchedalmond;
+}
+
+#campo_senha {
+    background-color: blanchedalmond;
+}
+
+label[for="campo_nome"] {
+    color: brown;
+}
+
+label[for="campo_email"] {
+    color: brown;
+}
+
+label[for="campo_senha"] {
+    color: brown;
+}
+h2{
+    background-color: aliceblue;
+}
